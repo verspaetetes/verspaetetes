@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @verspaetetes
 - 👀 I’m interested in Minecraft Plugin Developement
+- ✍️ I’m currently learning Kotlin
