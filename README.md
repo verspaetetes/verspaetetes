@@ -1,1 +1,2 @@
-![kekw](https://imgs.search.brave.com/LOcp2v6yQTHD5rhToI2N5kPcox-uWk6Yn-CGM6Mz5as/rs:fit:900:506:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZ3V0ZWZyYWdl/Lm5ldC9tZWRpYS9m/cmFnZW4vYmlsZGVy/L2ZpbmRldC1paHIt/dHdlbnR5NHRpbS1j/cmluZ2UvMF9mdWxs/LmpwZz92PTE2NTE1/MjIxNzcwMDA)
+- im currently learning [Kotlin](https://kotlinlang.org/)
+- interested in [Discord-Bot](https://github.com/kordlib/kord) Coding with Kotlin
