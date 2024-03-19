@@ -6,5 +6,3 @@
 - [Minecraft Plugin Developement](https://papermc.io) with Kotlin
 #### Socials
 - [Twitch](https://twitch.tv/verspaetetes)
-#### 'Working' at
-- [SoapPowered](https://soappowered.org)
