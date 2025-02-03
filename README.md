@@ -1,8 +1,6 @@
 #### Languages i 'speak'
-- [Java](https://java.com)
-- [Kotlin](https://kotlinlang.org) (still learning)
+- [HTML]
+- [Java]
 #### Interests
-- [Discord Bot Developement](https://github.com/kordlib/kord) with Kotlin
-- [Minecraft Plugin Developement](https://papermc.io) with Kotlin
-#### Socials
-- [Twitch](https://twitch.tv/verspaetetes)
+- [Web Developement] with HTML & CSS
+- [Minecraft Plugin Developement] with Java & [PaperMC](https://docs.papermc.io/paper/dev)
